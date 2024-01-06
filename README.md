@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Yousuf Jamal<br>🔭 I’m currently working on : Assembly Language<br>👯 I’m looking to collaborate on: Front-End Dev Projects<br>🤝 I’m looking for help with: Python<br>🌱 Next planning to do: Flutter and SQL.<br>💬 Ask me about:  C & C++
+👋 Hi, I’m Yousuf Jamal<br>🔭 I’m currently working on : Data Structures & Algorithms<br>👯 I’m looking to collaborate on: Flutter Projects<br>🤝 Next planning to do: SQL.<br>💬 Ask me about:  C & C++
 
 
 ## 🌐 Socials:
