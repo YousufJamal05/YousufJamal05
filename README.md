@@ -1,6 +1,4 @@
-# 💫 About Me:
-👋 Hi, I’m Yousuf Jamal<br>
-
+# 👋 Hi, I’m Yousuf Jamal<br>
 
 ## 🌐 Socials:
 <div align="left">
