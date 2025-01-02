@@ -40,5 +40,19 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YousufJamal05&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YousufJamal05&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## My Apps 🚀
+
+### CoinTrack - Crypto Portfolio Manager  
+Stay on top of your cryptocurrency investments with **CoinTrack**, a powerful and easy-to-use crypto portfolio management app.  
+
+📱 **Features:**  
+- Track real-time crypto prices.  
+- Manage your portfolio with detailed insights.  
+- Monitor profit/loss, asset allocation, and milestones.  
+- Access historical data and news tailored to your interests.  
+
+🌐 **Download Now:** [cointrackApp.pythonanywhere.com](https://cointrackApp.pythonanywhere.com)  
+
+
 ---
 [![](https://visitcount.itsvg.in/api?id=YousufJamal05&icon=0&color=0)](https://visitcount.itsvg.in)
